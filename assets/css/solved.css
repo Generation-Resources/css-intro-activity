@@ -19,8 +19,10 @@ Resources:
 
 /* What kind of selector is this? */
 /*  */
+
+
 body {
-	background: #dedede;
+	background: #f3eeee;
 }
 
 /* What element in the html is the selector below manipulating? */
